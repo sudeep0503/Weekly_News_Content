@@ -1,0 +1,69 @@
+AI Buzzwords of the Week
+
+These are the key AI terms that appeared repeatedly across this week's biggest stories and are especially relevant for professionals in banking, risk, compliance, audit, and technology.
+
+AI Agent
+
+Definition:
+An AI agent is an AI system that can independently plan, make decisions, and execute a sequence of tasks to achieve a goal, rather than simply responding to individual prompts.
+
+Why it matters:
+AI agents are the next step beyond chatbots. They can automate complex business processes, making them valuable for enterprise productivity but also introducing new governance, access control, and operational risk considerations.
+
+Example:
+OpenAI introduced ChatGPT Work, an AI agent capable of creating reports, searching enterprise systems, writing code, and completing multi-step workflows.
+
+Frontier Model
+
+Definition:
+A frontier model is one of the most advanced AI models available, representing the current state of the art in reasoning, coding, language understanding, and multimodal capabilities.
+
+Why it matters:
+Because of their powerful capabilities, frontier models are increasingly subject to government oversight, safety evaluations, and stricter governance before deployment.
+
+Example:
+OpenAI's GPT-5.6 and Anthropic's Claude Fable 5 were highlighted as frontier models undergoing enhanced safety and regulatory reviews.
+
+AI Governance
+
+Definition:
+AI governance refers to the policies, controls, processes, and oversight mechanisms used to ensure AI systems are developed and used responsibly, securely, and in compliance with regulations.
+
+Why it matters:
+As AI becomes embedded in critical business operations, organizations need governance frameworks to manage risk, maintain transparency, and meet regulatory expectations.
+
+Example:
+Several stories this week focused on AI safety reviews, export restrictions, enterprise governance dashboards, and responsible deployment of advanced AI models.
+
+Mechanistic Interpretability
+
+Definition:
+Mechanistic interpretability is the field of research that studies how AI models internally process information and arrive at their decisions, rather than treating them as "black boxes."
+
+Why it matters:
+Understanding an AI model's reasoning improves explainability, model validation, trust, and risk management—particularly important in highly regulated industries such as banking and finance.
+
+Example:
+Anthropic's research on Claude's internal J-Space provided new insights into how large language models organize information before generating responses.
+
+Multimodal AI
+
+Definition:
+Multimodal AI refers to models that can understand and generate multiple types of information—such as text, images, audio, video, and code—within a single system.
+
+Why it matters:
+Businesses increasingly need AI that works across different data formats rather than handling only text, enabling richer customer experiences and more versatile enterprise applications.
+
+Example:
+Meta's Muse Image demonstrated multimodal capabilities by combining natural language understanding with advanced image generation and editing.
+
+Open-Weight Model
+
+Definition:
+An open-weight model is an AI model whose trained parameters (weights) are publicly available, allowing organizations to download, run, and customize it on their own infrastructure.
+
+Why it matters:
+Open-weight models provide greater flexibility, transparency, and deployment control, making them attractive for enterprises with strict data privacy, security, or regulatory requirements.
+
+Example:
+This week saw growing enterprise adoption of open-weight models such as Kimi K2, DeepSeek, and other models integrated into platforms like GitHub Copilot.
